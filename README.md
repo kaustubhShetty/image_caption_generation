@@ -6,7 +6,7 @@
 
 <p><strong>App Screenshots:</strong>&nbsp;</p>
 
-![](Screenshots/blue_horse.png)
-![](Screenshots/Car.png)
-![](Screenshots/bright.png)
+![](Screenshots/blue_horse.jpg)
+![](Screenshots/Car.jpg)
+![](Screenshots/bright.jpg)
 
