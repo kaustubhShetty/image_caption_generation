@@ -1,4 +1,4 @@
-# FitMe Personal Trainer
+# Image Captioner Mobile Application
 
 <p><strong>Click on the gif below to Watch the Video:</strong>&nbsp;</p>
 
